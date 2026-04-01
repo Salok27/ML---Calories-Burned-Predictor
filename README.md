@@ -1,6 +1,3 @@
-Absolutely! Here's a fully polished README with clear placeholders for all your screenshots—app dashboard, heatmaps, scatter plots, and ML model metrics. I also added small captions and structured it for maximum impact on GitHub.
-
----
 
 #  Calories Burned Predictor
 
