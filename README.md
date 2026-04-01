@@ -64,12 +64,12 @@ The predictive model leverages **Random Forest Regression** to accurately estima
 
 ###  Model Performance
 
-![Prediction vs Actual Screenshot](screenshots/prediction_vs_actual.png)
+<img width="843" height="351" alt="Screenshot 2026-04-01 153500" src="https://github.com/user-attachments/assets/5edb75be-eea6-4967-93d3-ed7aa880f38d" />
 *Comparison of predicted vs. actual calories burned.*
 
 ###  Feature Importance
 
-![Feature Importance Screenshot](screenshots/feature_importance.png)
+<img width="610" height="95" alt="Screenshot 2026-04-01 153513" src="https://github.com/user-attachments/assets/6e34fb59-e057-4b30-becd-beebf92f2044" />
 *Highlights the most influential variables in the model.*
 
 ---
