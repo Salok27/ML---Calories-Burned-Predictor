@@ -10,7 +10,6 @@ The **Calories Burned Predictor** is an end-to-end machine learning project that
 Interactively predict calories burned with our Streamlit dashboard:
 
 ![Screenshot_1-4-2026_15271_localhost](https://github.com/user-attachments/assets/be7fcb31-b845-4d75-9007-551e25d15eb1)
-![Screenshot_1-4-2026_15271_localhost](https://github.com/user-attachments/assets/be7fcb31-b845-4d75-9007-551e25d15eb1)
 *Example of the deployed app where users can input activity data.*
 
 ---
@@ -32,12 +31,12 @@ The analysis began with the `steps_tracker_dataset.csv` dataset to understand pa
 
 ###  Correlation Heatmap
 
-![Correlation Heatmap Screenshot](screenshots/heatmap.png)
+<img width="1235" height="906" alt="Screenshot 2026-04-01 153238" src="https://github.com/user-attachments/assets/5ecd1ed3-853a-4646-8c60-234cf51cda00" />
 *Shows relationships between features and calories burned.*
 
-###  Scatter Plots
+###  Plot
 
-![Scatter Plot Screenshot](screenshots/steps_vs_calories.png)
+<img width="854" height="677" alt="Screenshot 2026-04-01 153342" src="https://github.com/user-attachments/assets/850aae40-56ea-4704-97e4-16a65e1ec70e" />
 *Steps vs. Calories Burned to visualize the linear relationship.*
 
 ---
