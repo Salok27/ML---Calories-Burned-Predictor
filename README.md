@@ -9,7 +9,8 @@ The **Calories Burned Predictor** is an end-to-end machine learning project that
 
 Interactively predict calories burned with our Streamlit dashboard:
 
-![App Dashboard Screenshot](screenshots/app_dashboard.png)
+![Screenshot_1-4-2026_15271_localhost](https://github.com/user-attachments/assets/be7fcb31-b845-4d75-9007-551e25d15eb1)
+![Screenshot_1-4-2026_15271_localhost](https://github.com/user-attachments/assets/be7fcb31-b845-4d75-9007-551e25d15eb1)
 *Example of the deployed app where users can input activity data.*
 
 ---
